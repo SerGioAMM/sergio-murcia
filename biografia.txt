@@ -1,8 +1,12 @@
 Soy una persona silenciosa pero amigable, con una gran pasión por la tecnología que apareció desde temprana edad. Soy paciente, responsable 
+<<<<<<< HEAD
 y ESTA ES UNA MODIFICACIONNN puntual; por otro lado, tengo un problema grande, soy muy introvertido, por lo que claro me considero amigable, pero, me cuesta mucho 
+
 entablar relaciones sociales. 
 Mi vida se basa en estar en tranquilidad sin molestar a nadie y aunque siempre hay algunos tropiezos siempre hago lo mejor que puedo para 
 ser una buena persona.
 
 Quizás lo mejor que me ha pasado en mi vida fue conocer a mis mejores amigos, en los cuales tengo total confianza y me han ayudado mucho a 
 crecer mentalmente y mejorar como persona. 
+
+
